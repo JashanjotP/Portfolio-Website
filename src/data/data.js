@@ -1,5 +1,9 @@
 import Spotify from '../assets/Spotify.png'
 import Rest from '../assets/Rest.png'
+import Discord from '../assets/Discord.png'
+import Sort from "../assets/Sorting.png"
+import Weather from "../assets/Weather.png"
+import ToDo from "../assets/ToDo.png"
 
 export const data=[
     {
@@ -12,9 +16,9 @@ export const data=[
     {
         id:2,
         name:"Discord Clone",
-        image:Spotify,
+        image:Discord,
         github:"https://github.com/JashanjotP/Discord-Clone",
-        live:"",
+        live:"https://discord-clone-git-main-jashanjotp.vercel.app/",
     },
     {
         id:3,
@@ -26,30 +30,23 @@ export const data=[
     {
         id:4,
         name:"Sorting Visualizer",
-        image:Spotify,
-        github:"",
-        live:"",
+        image:Sort,
+        github:"https://github.com/JashanjotP/Sorting-Visualizer",
+        live:"https://jashanjotp.github.io/Sorting-Visualizer/",
     },
     {
         id:5,
         name:"Weather App",
-        image:Spotify,
-        github:"",
-        live:"",
+        image:Weather,
+        github:"https://github.com/JashanjotP/Weather-App",
+        live:"https://jashanjotp.github.io/Weather-App/",
     },
     {
         id:6,
         name:"To-Do List",
-        image:Spotify,
-        github:"",
-        live:"",
-    },
-    {
-        id:7,
-        name:"Calculator",
-        image:Spotify,
-        github:"",
-        live:"",
+        image:ToDo,
+        github:"https://github.com/JashanjotP/ToDo-App",
+        live:"https://jashanjotp.github.io/ToDo-App/",
     },
 
 
